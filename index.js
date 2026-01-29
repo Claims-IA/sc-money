@@ -22,7 +22,7 @@ const cia_currency = {
 //    ? ({ decimal_points }) =>
 //        `decimal(${16 + (decimal_points || 2)}, ${+(decimal_points || 2)})`
 //    : "decimal(18,2))", //legacy
-  sql_name: "integer"
+  sql_name: "integer",
   //
   // fieldviews: 
   // objet d'objets, chacun définissant une vue de champ, 
