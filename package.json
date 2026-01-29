@@ -1,5 +1,5 @@
 {
-  "name": "@claims-ia/currency",
+  "name": "sc-money",
   "version": "0.1.0",
   "description": "CIA Currency datatype",
   "main": "index.js",
