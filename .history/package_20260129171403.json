@@ -12,7 +12,7 @@
     "jest": "^25.1.0",
     "@saltcorn/data": "^0.0.8"
   },
-  "repository": "github:Claims-IA/sc-money",
+  "repository": "github:saltcorn/money",
   "jest": {
     "testEnvironment": "node"
   },
